@@ -1,0 +1,3088 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19127",
+"files": {
+	"\/_assets\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_assets\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/app.js",
+		"outputAbbreviatedPath": "\/_assets\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/homepage.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/homepage.js",
+		"outputAbbreviatedPath": "\/_assets\/min\/homepage-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/content\/aiga-bg-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24534,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/aiga-bg-mobile.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/aiga-bg-mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/aiga-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77993,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/aiga-bg.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/aiga-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/aiga-sd-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2155,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/aiga-sd-logo.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/aiga-sd-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/band-alabama-shakes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106944,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/band-alabama-shakes.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/band-alabama-shakes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/band-background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67065,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/band-background.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/band-background.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/band-mowglis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53420,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/band-mowglis.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/band-mowglis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-agenda-footer-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160648,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-agenda-footer-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384900,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-mobile.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-community-behance.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169571,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-community-behance.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-community-behance.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-earlybird.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43707,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-earlybird.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-earlybird.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-events-maxbash.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147877,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-events-maxbash.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-events-maxbash.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-events-maxsneaks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212640,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-events-maxsneaks.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-events-maxsneaks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-events-meettheteams.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189474,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-events-meettheteams.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-events-meettheteams.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-events-welcomereception.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130219,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-events-welcomereception.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-events-welcomereception.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-home-attend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119877,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-attend.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-attend.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-home-sessions-desktop.jpg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319811,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-home-sessions-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57157,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-mobile.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-home-speakers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114984,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-speakers.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-speakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-home-welcome.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176043,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-welcome.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-welcome.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-bayfront.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48567,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-bayfront.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-bayfront.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-courtyard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46556,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-courtyard.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-courtyard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-downtown-gaslamp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65722,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-downtown-gaslamp.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-downtown-gaslamp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-embassy-suites.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43342,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-embassy-suites.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-embassy-suites.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-gaslamp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75458,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-gaslamp.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-gaslamp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-grand.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76235,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-grand.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-grand.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-hardrock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62601,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-hardrock.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-hardrock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-indigo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38995,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-indigo.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-indigo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-kimpton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30874,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-kimpton.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-kimpton.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-marquis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55865,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-marquis.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-marquis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-omni.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52790,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-omni.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-omni.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-solamar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78772,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-solamar.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-solamar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-hotels-westin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37245,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-westin.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-hotels-westin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-preconference-behance.jpg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167605,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-behance.jpg.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-behance.jpg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-preconference-calendar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1385,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-calendar.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-calendar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-preconference-creativecloud.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146098,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-creativecloud.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-creativecloud.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-preconference-russellbrown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159909,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-russellbrown.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-preconference-russellbrown.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-sessions-behance.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77952,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-sessions-behance.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-sessions-behance.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-travel-venue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223310,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-travel-venue.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-travel-venue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-why-attend.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 873880,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-why-attend.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-why-attend.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/sneaks-host-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9233,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/sneaks-host-mobile.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/sneaks-host-mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/sneaks-host.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69122,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/sneaks-host.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/sneaks-host.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/global\/adobe-logo-footer-desktop.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 859,
+		"inputAbbreviatedPath": "\/_assets\/images\/global\/adobe-logo-footer-desktop.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/global\/adobe-logo-footer-desktop.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/global\/adobe-logo-footer-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 783,
+		"inputAbbreviatedPath": "\/_assets\/images\/global\/adobe-logo-footer-mobile.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/global\/adobe-logo-footer-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/global\/adobe-logo-header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 782,
+		"inputAbbreviatedPath": "\/_assets\/images\/global\/adobe-logo-header.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/global\/adobe-logo-header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/global\/gray-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 508,
+		"inputAbbreviatedPath": "\/_assets\/images\/global\/gray-facebook.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/global\/gray-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/global\/gray-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1334,
+		"inputAbbreviatedPath": "\/_assets\/images\/global\/gray-twitter.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/global\/gray-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/global\/max-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1567,
+		"inputAbbreviatedPath": "\/_assets\/images\/global\/max-logo.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/global\/max-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/aarondraplin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24835,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/aarondraplin.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/aarondraplin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/adobe-logo-footer-desktop.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 859,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/adobe-logo-footer-desktop.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/adobe-logo-footer-desktop.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/adobe-logo-footer-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 783,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/adobe-logo-footer-mobile.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/adobe-logo-footer-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/adobe-logo-header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 782,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/adobe-logo-header.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/adobe-logo-header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_assets\/images\/home\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/app.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/band-alabama-shakes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106944,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/band-alabama-shakes.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/band-alabama-shakes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/band-mowglis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53420,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/band-mowglis.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/band-mowglis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/chrisbukard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18169,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/chrisbukard.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/chrisbukard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/davewerner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24932,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/davewerner.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/davewerner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/debbiemillman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27975,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/debbiemillman.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/debbiemillman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/denisejacobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17802,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/denisejacobs.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/denisejacobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/dianedomeyer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21560,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/dianedomeyer.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/dianedomeyer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/fbevents.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/fbevents.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/fbevents-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_assets\/images\/home\/gemmaobrien.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16058,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/gemmaobrien.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/gemmaobrien.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/helenaprice.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11750,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/helenaprice.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/helenaprice.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/homepage.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/homepage.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/homepage-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/jinabolton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17265,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/jinabolton.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/jinabolton.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/kylewebster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29596,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/kylewebster.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/kylewebster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/lindsayalder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23502,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/lindsayalder.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/lindsayalder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/luisawinters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16883,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/luisawinters.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/luisawinters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/lynsey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217256,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/lynsey.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/lynsey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/max-home-attend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119877,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/max-home-attend.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/max-home-attend.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/max-home-welcome.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176043,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/max-home-welcome.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/max-home-welcome.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/max-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1567,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/max-logo.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/max-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/max-marquee-2-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315608,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/max-marquee-2-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/max-marquee-2-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/mbox-contents-f3808f72f280c66c15bd81363d6f55f0659a684d.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/mbox-contents-f3808f72f280c66c15bd81363d6f55f0659a684d.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/mbox-contents-f3808f72f280c66c15bd81363d6f55f0659a684d-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/nancydouyon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20479,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/nancydouyon.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/nancydouyon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/PeelePhoto.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.44507e+06,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/PeelePhoto.jpeg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/PeelePhoto.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/qox4seo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/qox4seo.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/qox4seo-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/quentin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79881,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/quentin.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/quentin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/rebeccasimpson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20401,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/rebeccasimpson.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/rebeccasimpson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/richharrington.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17316,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/richharrington.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/richharrington.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/robbiecarman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33679,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/robbiecarman.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/robbiecarman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/saradietschy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33494,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/saradietschy.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/saradietschy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/satellite-5627261764746d716d001396.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/satellite-5627261764746d716d001396.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/satellite-5627261764746d716d001396-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/satellite-57f792ec64746d492100043b.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/satellite-57f792ec64746d492100043b.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/satellite-57f792ec64746d492100043b-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/stephengates.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17837,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/stephengates.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/stephengates.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/target.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/target.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/target-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/timothygoodman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28268,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/timothygoodman.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/timothygoodman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/userPhotoOriginal(20).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21482,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/userPhotoOriginal(20).jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/userPhotoOriginal(20).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/uwt.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/uwt.js",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/min\/uwt-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/images\/home\/zac-posen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193765,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/zac-posen.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/zac-posen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-404.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213757,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-404.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-404.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-2-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315608,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-2-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-2-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-3-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359425,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-3-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-3-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-4-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223681,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-4-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-4-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-agenda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 638946,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-agenda.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-agenda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-becomeasponsor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 297553,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-becomeasponsor.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-becomeasponsor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-blog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122147,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-blog.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-blog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-codeofconduct.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 538241,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-codeofconduct.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-codeofconduct.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-community.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 433862,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-community.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-community.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-contact.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290661,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-contact.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-contact.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-eventsandnetworking.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 359912,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-eventsandnetworking.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-eventsandnetworking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-faq.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 412461,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-faq.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-faq.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 478237,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-mailinglist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318056,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-mailinglist.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-mailinglist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-preconferencetraining.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 370420,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-preconferencetraining.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-preconferencetraining.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-registration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 325197,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-registration.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-registration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-sessions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 549174,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-sessions.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-sessions.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-speakers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 191084,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-speakers.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-speakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-sponsors.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 383068,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-sponsors.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-sponsors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-travel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 511206,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-travel.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-travel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquees\/max-marquee-whyattend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 372527,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-whyattend.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquees\/max-marquee-whyattend.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/placeholders\/homepage-video.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 461856,
+		"inputAbbreviatedPath": "\/_assets\/images\/placeholders\/homepage-video.png",
+		"outputAbbreviatedPath": "\/_assets\/images\/placeholders\/homepage-video.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/speakers.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/speakers.js",
+		"outputAbbreviatedPath": "\/_assets\/min\/speakers-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_downloads.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_downloads.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/adobemax.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/adobemax.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/adobemax-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/agenda\/attend\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/agenda\/attend\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/agenda\/events-and-networking\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/agenda\/events-and-networking\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/agenda\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/agenda\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/blog\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/blog\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/community\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/community\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/community\/logobuilder\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/community\/logobuilder\/img\/adobe-logo-footer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1504,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/img\/adobe-logo-footer.png",
+		"outputAbbreviatedPath": "\/community\/logobuilder\/img\/adobe-logo-footer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/community\/logobuilder\/img\/hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87553,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/img\/hero.jpg",
+		"outputAbbreviatedPath": "\/community\/logobuilder\/img\/hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/community\/logobuilder\/img\/sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8165,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/img\/sprite.png",
+		"outputAbbreviatedPath": "\/community\/logobuilder\/img\/sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/community\/logobuilder\/img\/sprite@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20005,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/img\/sprite@2x.png",
+		"outputAbbreviatedPath": "\/community\/logobuilder\/img\/sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/community\/logobuilder\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/community\/logobuilder\/js\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/js\/app.js",
+		"outputAbbreviatedPath": "\/community\/logobuilder\/js\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/community\/logobuilder\/{{link}}.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/community\/logobuilder\/{{link}}.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices..html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices..html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-footer-desktop.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 859,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-footer-desktop.png",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-footer-desktop.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-footer-mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 783,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-footer-mobile.png",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-footer-mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 782,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-header.png",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/adobe-logo-header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/app.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/band-alabama-shakes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106944,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/band-alabama-shakes.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/band-alabama-shakes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/band-mowglis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53420,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/band-mowglis.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/band-mowglis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/fbevents.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/fbevents.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/fbevents-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/homepage.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/homepage.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/homepage-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-home-attend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119877,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-home-attend.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-home-attend.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-home-welcome.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176043,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-home-welcome.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-home-welcome.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1567,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-logo.png",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-marquee-2-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315608,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-marquee-2-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/max-marquee-2-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/mbox-contents-f3808f72f280c66c15bd81363d6f55f0659a684d.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/mbox-contents-f3808f72f280c66c15bd81363d6f55f0659a684d.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/mbox-contents-f3808f72f280c66c15bd81363d6f55f0659a684d-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/PeelePhoto.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.44507e+06,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/PeelePhoto.jpeg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/PeelePhoto.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/qox4seo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/qox4seo.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/qox4seo-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/quentin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79881,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/quentin.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/quentin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/satellite-5627261764746d716d001396.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/satellite-5627261764746d716d001396.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/satellite-5627261764746d716d001396-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/satellite-57f792ec64746d492100043b.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/satellite-57f792ec64746d492100043b.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/satellite-57f792ec64746d492100043b-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/target.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/target.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/target-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33494,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(1).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(1).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(10).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18169,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(10).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(10).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(11).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11750,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(11).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(11).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(12).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29596,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(12).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(12).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(13).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33679,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(13).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(13).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17316,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(14).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(14).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(15).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24932,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(15).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(15).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(16).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16883,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(16).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(16).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(17).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17265,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(17).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(17).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(18).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20479,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(18).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(18).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(19).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17802,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(19).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(19).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(2).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21560,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(2).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(2).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(20).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21482,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(20).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(20).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(3).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17837,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(3).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(3).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(4).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20401,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(4).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(4).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(5).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24835,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(5).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(5).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(6).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28268,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(6).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(6).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(7).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27975,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(7).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(7).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(8).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16058,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(8).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(8).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(9).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23502,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(9).jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal(9).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217256,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/userPhotoOriginal.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/uwt.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/uwt.js",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/min\/uwt-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/zac-posen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193765,
+		"inputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/zac-posen.jpg",
+		"outputAbbreviatedPath": "\/home\/Adobe MAX—The Creativity Conference. Get Early Bird Prices._files\/zac-posen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/mailing-list\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/mailing-list\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/registration\/code-of-conduct\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/registration\/code-of-conduct\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/registration\/faq\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/registration\/faq\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/registration\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/registration\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/registration\/travel\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/registration\/travel\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sass\/ie.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/ie.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/ie.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/print.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/print.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/print.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/screen.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/screen.scss",
+		"outputAbbreviatedPath": "\/stylesheets\/screen.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sessions\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sessions\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sessions\/preconference-training\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sessions\/preconference-training\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/Adobe.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/Adobe.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/baradat.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/baradat.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/Bonny@Lhotka.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/Bonny@Lhotka.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/christineherrin.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/christineherrin.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/douyonsignature.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/douyonsignature.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/pelavin.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/pelavin.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/pivotal.io.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/pivotal.io.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/workshoplovesyou.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/workshoplovesyou.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.123muse.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.123muse.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.adobe.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.adobe.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.debisementelli.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.debisementelli.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.dkngstudios.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.dkngstudios.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.masterfxtraining.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.masterfxtraining.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.mixinglight.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.mixinglight.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/speakers\/www.phenomblue.com.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/speakers\/www.phenomblue.com.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sponsors\/become-a-sponsor\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sponsors\/become-a-sponsor\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/sponsors\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sponsors\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/ie.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/print.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/print.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/screen.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Justin Avery",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "max.adobe.com",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_gray"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 2,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

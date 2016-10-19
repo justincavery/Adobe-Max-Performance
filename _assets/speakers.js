@@ -1,0 +1,1 @@
+"use strict";$(function(){""===window.location.hash&&($("#panel-graphicDesignIllustration-label").parent().click(),$(".speaker.false").find(".accordion-content").remove())});

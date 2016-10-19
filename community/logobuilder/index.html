@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script src="https://assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js"></script>
+    <title>Adobe MAX&mdash;Logo Builder</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0" />
+
+    <meta name="description" content="Customize the Adobe MAX logo with your own work and share it for an opportunity to appear in our gallery – and possibly on our MAX keynote stage">
+
+    <meta itemprop="name" content="Make Your Own Adobe MAX Logo">
+    <meta itemprop="description" content="Customize the Adobe MAX logo with your own work and share it for an opportunity to appear in our gallery – and possibly on our MAX keynote stage">
+    <meta itemprop="image" content="https://max.adobe.com/community/logobuilder/img/fb-share.jpg">
+
+    <meta property="og:title" content="Make Your Own Adobe MAX Logo" />
+    <meta property="og:url" content="http://adobe.ly/2cByzr8" />
+    <meta property="og:image" content="https://max.adobe.com/community/logobuilder/img/fb-share.jpg" />
+    <meta property="og:description" content="Customize the Adobe MAX logo with your own work and share it for an opportunity to appear in our gallery – and possibly on our MAX keynote stage" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@adobemax">
+    <meta name="twitter:title" content="Make Your Own Adobe MAX Logo">
+    <meta name="twitter:description" content="Customize the Adobe MAX logo with your own work and share it for an opportunity to appear in our gallery – and possibly on our MAX keynote stage">
+    <meta name="twitter:creator" content="@adobemax">
+    <meta name="twitter:image:src" content="https://max.adobe.com/community/logobuilder/img/fb-share.jpg">
+
+    <link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script type="text/javascript" src="https://use.typekit.net/qox4seo.js"></script>
+    <script type="text/javascript">
+        try {
+            Typekit.load({
+                async: true
+            });
+        } catch (e) {}
+    </script>
+</head>
+<body>
+
+    <div class="site-container">
+        <header>
+            <nav class="global-nav">
+                <a class="max-logo" href="../../index.html">
+                </a>
+                <a class="adobe-logo" href="https://adobe.com">
+                </a>
+            </nav>
+        </header>
+        <main id="logo-builder-app">
+            <figure class="hero">
+                <h1>make a MAX logo</h1>
+            </figure>
+            <section class="logo-builder-heading">
+                <div class="page-share">
+                    <span>Share this page</span>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//max.adobe.com/community/logobuilder/" class="icon fb" target="_blank">
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?text=Create%20your%20own%20Adobe%20MAX%20logo%20and%20share%20it%20using%20%23MyMAXLogo.&amp;url=http://adobe.ly/2cIJUcH" class="icon tw" target="_blank">
+                    </a>
+                </div>
+                <h2>Build and share your own MAX logo.</h2>
+                <p class="details">
+                    Use your own images, then save it, share it, and see if it's chosen for our gallery. A few lucky artists might even have their logos featured on the MAX keynote screen.
+                </p>
+                <p class="image-details">
+                    Images must be either JPG or PNG and a minimum {{letterDimensions}} x {{letterDimensions}} pixels. 
+                    <br>
+                    Using photos from your phone? Horizontal or square images work best.
+                </p>
+            </section>
+            <logo-builder v-bind:is-mobile="isMobile">
+            </logo-builder>
+            <gallery v-bind:is-mobile="isMobile"></gallery>
+        </main>
+        <footer class="global-footer" role="contentinfo">
+            <div class="adobe-logo-desktop">
+                <a href="http://adobe.com/" target="new">
+                    <img src="img/adobe-logo-footer.png" alt="">
+                </a>
+            </div>
+            <div class="adobe-logo-mobile">
+                <a href="http://adobe.com/" target="new">
+                </a>
+            </div>
+            <div class="contact">
+                <ul>
+                    <li><a href="../../blog/index.html">MAX blog</a></li>
+                    <li><a href="../../registration/faq/index.html">faq</a></li>
+                    <li><a href="../../contact/index.html">contact</a></li>
+                </ul>
+            </div>
+            <div class="social-icons">
+                <ul class="social menu align-center">
+                    <li>follow</li>
+                    <li><a class="icon tw light" href="https://twitter.com/adobemax" target="new"></a></li>
+                    <li><a class="icon fb light" href="https://www.facebook.com/adobemax" target="new"></a></li>
+                    <li><a class="icon insta light" href="https://www.instagram.com/adobe/" target="new"></a></li>
+                </ul>
+            </div>
+            <hr>
+            <p class="disclaimer">Copyright © 2016 Adobe Systems Incorporated. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <div id="image-enlarge-modal" v-bind:class="{'open': isOpen}" v-bind:style="modalStyles">
+        <div class="modal-wrap">
+            <div class="modal-body">
+                <span class="close-btn" @click="hide"></span>
+
+                <a href="%7B%7Blink%7D%7D.html" target="_blank">
+                    <img v-bind:src="image" />
+                </a>
+
+                <div class="author">
+                    <a href="%7B%7Blink%7D%7D.html" target="_blank">
+                        {{author}}
+
+                        <span v-if="source === 'Twitter'" class="icon tw blue"></span>
+                        <span v-if="source === 'Instagram'" class="icon insta blue"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+    <script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>
