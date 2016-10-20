@@ -24,7 +24,7 @@
 		},
 	"\/_assets\/homepage.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/homepage.js",
 		"outputAbbreviatedPath": "\/_assets\/min\/homepage-min.js",
@@ -194,6 +194,17 @@
 		"initialSize": 119877,
 		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-attend.jpg",
 		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-attend.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-home-sessions-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41461,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -451,13 +462,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_assets\/images\/content\/max-why-attend.png": {
-		"fileType": 32768,
+	"\/_assets\/images\/content\/max-why-attend.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 873880,
-		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-why-attend.png",
-		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-why-attend.png",
+		"initialSize": 596559,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-why-attend.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-why-attend.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/quentin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46619,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/quentin.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/quentin.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -691,6 +713,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/images\/home\/ethanmarcotte.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21482,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/ethanmarcotte.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/ethanmarcotte.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/images\/home\/fbevents.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -784,6 +817,17 @@
 		"initialSize": 16883,
 		"inputAbbreviatedPath": "\/_assets\/images\/home\/luisawinters.jpg",
 		"outputAbbreviatedPath": "\/_assets\/images\/home\/luisawinters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/lynsey-800.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73638,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/lynsey-800.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/lynsey-800.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1008,17 +1052,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_assets\/images\/home\/userPhotoOriginal(20).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21482,
-		"inputAbbreviatedPath": "\/_assets\/images\/home\/userPhotoOriginal(20).jpg",
-		"outputAbbreviatedPath": "\/_assets\/images\/home\/userPhotoOriginal(20).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_assets\/images\/home\/uwt.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -1037,6 +1070,237 @@
 		"initialSize": 193765,
 		"inputAbbreviatedPath": "\/_assets\/images\/home\/zac-posen.jpg",
 		"outputAbbreviatedPath": "\/_assets\/images\/home\/zac-posen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-404.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67695,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-404.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-404.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-2-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183595,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-2-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-2-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-3-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202773,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-3-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-3-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-4-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128260,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-4-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-4-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-agenda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206313,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-agenda.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-agenda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-becomeasponsor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102284,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-becomeasponsor.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-becomeasponsor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-blog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94128,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-blog.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-blog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-codeofconduct.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 175174,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-codeofconduct.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-codeofconduct.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-community.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127832,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-community.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-community.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-contact.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59746,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-contact.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-contact.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-eventsandnetworking.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92269,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-eventsandnetworking.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-eventsandnetworking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-faq.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122734,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-faq.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-faq.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-home-desktop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189725,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-home-desktop.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-home-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-mailinglist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72956,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-mailinglist.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-mailinglist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-preconferencetraining.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127717,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-preconferencetraining.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-preconferencetraining.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-registration.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109161,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-registration.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-registration.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-sessions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180651,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-sessions.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-sessions.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-speakers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100976,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-speakers.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-speakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-sponsors.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141165,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-sponsors.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-sponsors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-travel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172181,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-travel.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-travel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/marquee\/max-marquee-whyattend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89939,
+		"inputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-whyattend.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/marquee\/max-marquee-whyattend.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1283,9 +1547,20 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/min\/app-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/min\/app-min.js",
+		"outputAbbreviatedPath": "\/_assets\/min\/min\/app-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_assets\/speakers.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/speakers.js",
 		"outputAbbreviatedPath": "\/_assets\/min\/speakers-min.js",
@@ -2273,6 +2548,20 @@
 	],
 "lastSavedByUser": "Justin Avery",
 "manualImportLinks": {
+	"\/_assets\/app.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/_assets\/homepage.js",
+			"position": 0,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/_assets\/speakers.js",
+			"position": 1,
+			"type": 1
+			}
+		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
