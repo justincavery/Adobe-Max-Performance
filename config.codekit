@@ -99,6 +99,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/images\/content\/lynsey-800.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76113,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/lynsey-800.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/lynsey-800.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/images\/content\/max-agenda-footer-desktop.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -106,6 +117,17 @@
 		"initialSize": 160648,
 		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-desktop.jpg",
 		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-desktop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/content\/max-agenda-footer-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26508,
+		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-mobile.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-agenda-footer-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -205,17 +227,6 @@
 		"initialSize": 41461,
 		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg",
 		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_assets\/images\/content\/max-home-sessions-desktop.jpg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 319811,
-		"inputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg.png",
-		"outputAbbreviatedPath": "\/_assets\/images\/content\/max-home-sessions-desktop.jpg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -916,6 +927,17 @@
 		"initialSize": 1.44507e+06,
 		"inputAbbreviatedPath": "\/_assets\/images\/home\/PeelePhoto.jpeg",
 		"outputAbbreviatedPath": "\/_assets\/images\/home\/PeelePhoto.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/images\/home\/PeelePhoto.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89167,
+		"inputAbbreviatedPath": "\/_assets\/images\/home\/PeelePhoto.jpg",
+		"outputAbbreviatedPath": "\/_assets\/images\/home\/PeelePhoto.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
