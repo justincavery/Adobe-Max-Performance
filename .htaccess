@@ -1,3 +1,8 @@
+
+<ifModule mod_headers.c>
+    Header set Connection keep-alive
+</ifModule>
+
 # Apache Server Configs v2.14.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
 
