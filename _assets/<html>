@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Responsive Design in 2017 Adobe Max</title>
+</head>
+<body>
+  <h1>Responsive Design in 2017 Adobe Max</h1>
+
+  <p>You have just wathed the responsive design in 2017 talk at Adobe Max, welcome.</p>
+  <p>I wanted to included a set of links from the presnetation here for you to be able to follow up on for more details. There are a series of websites, articles, tools, and example code pens that I used to put the talk together (and there's a bunch of stuff there that didn't even make the talk)</p>
+  <p>As with all things progressive, for those of you that are on a device and browser that support service workers you also now have this as an offline page (although I can't do much about the external links sorry.)</p>
+
+<h2>The Introduction</h2>
+
+<h3>Things I do</h3>
+<ul>
+  <li><a href="http://responsivedesignweekly.com">RWD Weekly Newsletter</a></li>
+  <li><a href="https://responsivedesign.is">RWD Knowledge Hub</a></li>
+  <li><a href="https://redesign.responsivedesign.is">RWD Knowledge Hub Redesign</a></li>
+  <li><a href="http://ami.responsivedesignweekly.com">Am I Responsive</a></li>
+</ul>
+
+<h3>Progressive Enhancement</h3>
+
+<h2>Latest approaches</h2>
+
+
+<h2>Ensure performance across devices</h2>
+
+<h2>Best practice implementation techniques</h2>
+
+<h2>How others are approaching challenges</h2>
+
+</body>
+</html>

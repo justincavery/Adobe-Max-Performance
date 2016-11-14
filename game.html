@@ -1,0 +1,334 @@
+
+<!doctype html>
+<html>
+  <!--
+  (c) &copy; js1k.com, 2010 - 2016
+  Note: submissions belong to their respectful owner, do not copy without their consent
+  -->
+  <head>
+    <title>JS1k 2012 - Demo 1254 - "Fuse"</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Martin Kleppe">
+    <meta name="description" content="JS1k 2012 demo: &quot;Fuse&quot; -- Spread the love by absorbing all the positive energy around you. The goal is to fuse with the warm glowing blobs. But beware: Others might grow to big and turn into negative energy.">
+    <meta name="pubdate" content="20120313">
+    <link rel="icon" type="image/png" href="http://js1k.com/favicon.png">
+    <link rel="canonical" href="http://js1k.com/2012-love/demo/1254">
+    <link rel="alternate" type="application/rss+xml" title="New demo feed" href="http://js1k.com/feed.xml">
+    <link rel="shortlink" href="http://js1k.com/1254">
+    <script>
+      setTimeout(function(){
+        var ga = document.createElement('script');
+        ga.async = true;
+        ga.defer = true;
+        ga.src = 'http://www.google-analytics.com/ga.js';
+        ga.onload = function(){try{_gat._getTracker('UA-19882353-1')._trackPageview();}catch(e){window.console&&console.log("ga fail :'( ");};};
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+      }, 10);
+    </script>
+    <style>
+      /* http://qfox.nl/notes/333 */
+      body,html,iframe{margin:0;padding:0;border:0;width:100%;height:100%}
+      iframe{position:absolute;top:0;left:0;padding-top:50px;box-sizing:border-box}
+      header{position:relative;z-index:1;height:47px;padding-top:2px;border-bottom:1px solid #000;box-shadow:0 -10px 25px #ccc inset;background-color:#eee}
+      aside,div,h1,p{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;text-align:center;font-size:16px;font-weight:inherit;line-height:22px;padding:0;margin:0;cursor:default}
+      aside,h1{display:inline}
+      a{color:#000;text-decoration:none;border-bottom:1px dashed #000}
+      a:hover{border-bottom:1px solid red}
+      a[href="0"]{text-decoration:line-through;pointer-events:none;border-bottom:0;color:#ccc}
+      .button{float:left;width:40px;height:40px;line-height:40px;text-align:center;padding:0;margin:2px 0 0 10px;border:1px solid #888;border-color:#ddd #888 #888 #ddd;font-family:sans-serif;font-size:30px;font-weight:700;cursor:pointer}
+      .button:hover{color:red;border-bottom-color:#888}
+      .r{margin-right:10px}
+      time{display:none}
+    </style>
+
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>
+          <a href="http://js1k.com">JS1k</a>
+          <a href="http://js1k.com/2012-love">2012</a>
+          <strong></strong> demo
+          &mdash;
+          "Fuse" by Martin Kleppe
+        </h1>
+        <p>
+          <em>
+            Spread the love by absorbing all the positive energy around you. The goal is to fuse with the warm glowing blobs. But beware: Others might grow to big and turn into negative energy.
+          </em>
+        </p>
+        <aside>
+          &mdash;
+          1020 bytes
+          &mdash;
+          <!-- -->
+          <a href="http://js1k.com/2012-love/details/1254">demo details</a>
+          &mdash;
+          <a href="http://js1k.com/2012-love/demos">list of demos</a>
+          <!--
+          <b><a href="http://js1k.com/2012-love/demo/">
+            Update available here!
+          </a></b>
+          <!-- -->
+          &mdash;
+          <a href="http://js1k.com/1254" title="short link for your mobile devices" rel="nofollow">js1k.com/1254</a>
+        </aside>
+      </div>
+
+      <a href="1252" class="button p">&Larr;</a>
+      <a href="1255" class="button n">&Rarr;</a>
+    </header>
+
+    <script type="demo">
+    /*
+     ____ __ __ ____ ____
+    /  __|  |  | ___/ ___|
+    |  __|  |  |__  | __)
+    |_|  `_____|____/____/
+
+    FUSE - by @aemkei
+    Spread the love by absorbing all the positive energy around you.
+
+    In this simple game you control an energy ball through seven levels of love.
+    The goal is to fuse with the warm glowing blobs.
+    But beware: Others might grow to big and turn into negative energy.
+
+    Instructions
+
+    * click to accelerate movement
+    * collect warm (smaller) blobs
+    * avoid negative (bigger) energy
+    * fuse into a single giant ball
+    * master all seven levels
+
+    Features
+
+    * seven stages from easy to hard
+    * simple and unique game play
+    * smooth graphics, fonts and transitions
+
+    More info: http://j.mp/1kfuse
+
+    */
+
+
+    /*
+     * CANVAS MAPPING
+     * Reassign canvas methods to shortcut.
+     */
+
+    for (
+      i in a                              // find all properties in canvas
+    ) a[
+
+      i[3] + i[6]                         // create shortcut from 4. and 7. char
+                                          // "fillRect"              => "lc"
+                                          // "fillText"              => "lx"
+                                          // "createRadialGradient"  => "aR"
+
+    ] = a[i]                              // assign original property to shortcut
+
+
+    /*
+     * INITIAL SETUP
+     * Create the canvas and setup game specific variables.
+     */
+
+    B = L = 0                             // clear balls (B) and set level (L)
+
+    S =                                   // set screen size to 600 pixel
+      c.height =
+      c.width =
+      600
+
+    i = 320                               // set initial text position
+
+    /*
+     * NEW LEVEL
+     * Update the level based on encoded data.
+     */
+
+    n = function(e) {                     // next level
+                                          // "e" is a placeholder here
+
+      f =                                 // "f" is an empty string
+        B = []                            // "B" is the array with all balls
+
+      e =                                 // the final level data
+         "WiDa7LLB`@`^?1WA@YAh8;rL1YKCEAxUCE?+AJuA{AI1W7@5C+K_CBmi=}>1MLB8UPMAV7CHFUUu9?1WKFu/iUI1uM?VKCABTAW-DWA1V_C2A9iCmAuiErAx7?rA<7?"
+
+                                          // encoded level per line
+                                          // "1" is uses as a delimiter
+                                          // a char = two numberic values
+
+        .split(1)[                        // convert string to array
+          L                               // get current level as string
+        ]
+
+      for (
+        i = 0;                            // analyse level data
+        i < e.length;
+      ) f += e.charCodeAt(                // put numeric data into string
+        i++                               // convert char into charcode
+      ) - 32                              // shift down by 32 to get zeros
+
+      for (
+
+        i = 0;                            // analyse numeric level data
+        f[i];                             // values range from 0 to 9
+        P = B[0]                          // assign players ball ("P")
+
+      ) B.push({                          // store ball data
+        x: f[i++] * 60,                   // x position
+        y: f[i++] * 60,                   // y position
+        s: f[i++] * 10,                   // ball size
+        X: f[i++] - 3,                    // x movement
+        Y: f[i++] - 3                     // y movement
+      })
+    }
+
+    /*
+     * MAIN LOOP
+     * Update the stage in an interval.
+     */
+
+    setInterval(function(e) {             // "e" is used as a placeholder
+
+      if (!B) {                           // if there are no balls ...
+
+        e = (                             // set alpha value for text
+          i - 270
+        ) / 30
+
+        a.fillStyle = 'hsla(0,0%,0%,.2)'  // fadein black stage
+        a.lc(0, 0, S, S)                  // "lc" -> fillRect
+
+        a.font = '3em Impact'             // set font and text color
+        a.fillStyle = 'hsla(' + new Date/10%360 +',100%,50%,' + (e-.3) + ')'
+
+        a.lx(                             // "lx" -> fillText
+          L < 8 ?
+            L ? 'ιεvει ' + L : '  fυsε' : // show level ...
+              'τhε eηd',                  // or love if game is over
+
+          240,
+          i-= (                           // move up text
+            L < 8                         // .. only if we have an level
+          )
+        )
+
+        e < 0 && n();                     // show next level if text was hidden
+        return                            // cancel all other actions
+      }
+
+      a.fillStyle = 'hsla(0,0%,0%,.4)'  // fadein black stage
+      a.lc(0, 0, S, S)                  // "lc" -> fillRect
+
+      for (
+        f = i = 0;                        // "f" counts the visible balls
+        b = B[i++];                       // get a ball as long as there is one
+      ) {
+
+        with (b){                         // remember ball
+
+          x < 0 ^ x > S && (X *= -1)      // switch x or y direction
+          y < 0 ^ y > S && (Y *= -1)      // ... if ball is out of bounds
+
+          x += X                          // set new position
+          y += Y                          // based on current speed
+
+          for (
+
+            e = 0;
+            l = B[e++];                   // compare with other balls
+
+          ) l != b &                      // if they are not the same
+            s > 0 & l.s > 0 && (          // ... and if they both have a size
+
+
+              0 | Math.sqrt(              // convert to integer
+                (x - l.x) * (x - l.x) +   // get distance
+                (y - l.y) * (y - l.y)
+              ) - s - l.s                 // ... and subtract the sizes
+
+            ) < 0 && (                    // so if they touch ...
+
+              l.s > s ? (                 // shrink the smaller
+                l.s += .3,
+                s   -= .3
+              ) : (                       // inflate the bigger
+                s   += .3,
+                l.s -= .3
+              )
+            )
+
+          s > 0 && (                      // if the ball has a size
+
+            a.fillStyle = e = a.aR(       // prepare a new radial gradient
+              x, y, 0,                    // at the ball's position
+              x, y, s                     // with it's size
+            ),
+
+            c = s > P.s ? 200 : 340,      // make it blue if creater than player
+                                          // and add some fancy color stops
+
+            e.addColorStop(               // fill players ball
+              .4,
+              'hsla(' + c + ',100%,50%,' + (b==P)*1 + ')'
+            ),
+
+            e.addColorStop(               // pulsate players ball
+              .5 + ((b==P) * .1 * Math.sin( new Date / 320 )),
+              'hsla(' + c + ',100%,50%,1)'
+            ),
+
+            e.addColorStop(
+              .97,                        // fade ball to edge
+              'hsla(' + c + ',100%,50%,0)'
+            ),
+
+            a.lc(0, 0, S, S),             // call "fillRect" to draw the ball
+
+            f++                           // increase count for visible balls
+          )
+        }
+      }
+
+
+      0 > P.s ? (                         // lose, if players ball if empty
+
+        B = 0,                            // remove all balls
+        i = 320                           // and move text to bottom
+
+      ) : f == 1 && (                     // win, if only one ball is left
+
+        L++,                              // increase level
+        B = 0,                            // and reset balls and text position
+        i = 320
+
+      )
+
+    }, 30)
+
+
+    /*
+     * MOUSE INTERACTION
+     * Move ball based on clicked position.
+     */
+
+    onmousedown = function(e) {           // watch mouse clicks
+      P.X += (P.x - e.pageX) / 100,       // speed up ball
+      P.Y += (P.y - e.pageY) / 100
+    }
+    </script>
+    <script>
+      (function(){var doc=document;var header=doc.getElementsByTagName("header")[0];var firstChild=header.firstChild;var p=doc.getElementsByClassName("p")[0];var n=doc.getElementsByClassName("n")[0];header.insertBefore(p,firstChild);header.insertBefore(n,firstChild);header.appendChild(doc.getElementsByTagName("p")[0])})();
+      (function reload(){var doc=document;var header=doc.getElementsByTagName("header")[0];var iframe=doc.createElement("iframe");doc.body.appendChild(iframe);var iwin=iframe.contentWindow;var idoc=iframe.contentDocument;idoc.open();idoc.close();idoc.write('<!doctype html><head><meta charset="utf-8"><body>');idoc.head.innerHTML="<style>\n"+"html, body { margin: 0; padding: 0; border: 0; width: 100%; height: 100%; }\n"+"</style>\n";idoc.body.innerHTML="\n\t\t"+"<canvas"+' id="c"'+''+"></canvas>\n"+
+      (true?"<script>\x3c/script>\n":"")+"";var Audio=iwin.Audio;iwin.Audio=function(x){return new Audio(x)};if(true){var canvas=idoc.getElementsByTagName("canvas")[0];iwin.a=canvas.getContext("2d");iwin.b=idoc.body;iwin.c=canvas;var p2d=iwin.Path2D;function wrap(ctx){var fill=ctx.fill,clip=ctx.clip,stroke=ctx.stroke;ctx.scale=ctx.scale;ctx.drawFocusIfNeeded=ctx.drawFocusIfNeeded;ctx.ellipse=ctx.ellipse;ctx.fill=function(r){fill.call(ctx,r==="evenodd"?"evenodd":"nonzero")};ctx.stroke=
+        function(p){if(p&&p2d&&p instanceof p2d)stroke.call(ctx,p);else stroke.call(ctx)};ctx.clip=function(p){if(p&&p2d&&p instanceof p2d)clip.call(ctx,p);else clip.call(ctx)};return ctx}if(false){var cvs=iwin.c;var cNode=cvs.cloneNode;cvs.cloneNode=function(){var clone=cNode.apply(cvs,arguments);var cloneGet=clone.getContext;clone.getContext=function(){return wrap(cloneGet.call(clone,"2d"))};return clone};var get=cvs.getContext;cvs.getContext=function(){return wrap(get.call(cvs,"2d"))}}if(true)wrap(iwin.a)}idoc.body.clientWidth;
+        var demo=idoc.createElement("script");var scrpt=doc.querySelector('script[type="demo"]').textContent.replace(/m.location=m.location;/,"top.reload();");if(false)scrpt="A=0,B=0;"+scrpt;demo.textContent=scrpt;idoc.body.appendChild(demo);idoc.close();iframe.contentWindow.focus();var r=doc.createElement("div");r.innerHTML="&#8635;";r.className="button r";r.title="restart just the demo (local, without remote fetch)";window.reload=r.onclick=function(){doc.body.removeChild(iframe);r.parentElement.removeChild(r);
+          iframe=null;r=null;idoc=null;header=null;reload()};var firstLine=doc.getElementsByTagName("div")[0];header.insertBefore(r,firstLine)})();
+    </script>
+  </body>
+</html>
